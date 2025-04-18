@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Douaa !
-- a passionate computer science undergrad student, from Algeria !
-- 🌱 I’m currently learning C Language 
-- 📫 How to reach me : douaa.ze06@gmail.com
-- 😄 Pronouns: she/her
+
 
 
 <!---
